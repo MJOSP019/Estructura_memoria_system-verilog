@@ -6,8 +6,8 @@
 ---
 
 ## 🎥 Video Explicativo
-- Enlace al video de YouTube (modo Privado / No listado):  
-  👉 **[Ver Video Explicativo en YouTube](PEGA_AQUÍ_TU_ENLACE_DE_YOUTUBE)**
+- Enlace al video de YouTube 
+(PEGA_AQUÍ_TU_ENLACE_DE_YOUTUBE)**
 
 ---
 
