@@ -7,7 +7,7 @@
 
 ## 🎥 Video Explicativo
 - Enlace al video de YouTube 
-(https://youtu.be/7Kk_LdfHeZI)**
+(https://youtu.be/7Kk_LdfHeZI)
 
 ---
 
