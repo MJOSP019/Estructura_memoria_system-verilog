@@ -20,9 +20,10 @@ Implementación en SystemVerilog de una arquitectura de memoria síncrona parame
 ---
 
 ## 🛠️ Parámetros del Módulo
+
 * `DATA_WIDTH`: Tamaño en bits de cada palabra (por defecto: 8 bits).
-* `ADDR_WIDTH`: Tamaño del bus de direcciones (por defecto: 4 bits, permitiendo $2^4 = 16$ palabras).
-* `MEM_DEPTH`: Capacidad total de almacenamiento calculada automáticamente ($2^{\text{ADDR\_WIDTH}}$).
+* `ADDR_WIDTH`: Tamaño del bus de direcciones (por defecto: 4 bits, permitiendo 2^4 = 16 palabras).
+* `MEM_DEPTH`: Capacidad total de almacenamiento calculada automáticamente (2^ADDR_WIDTH palabras).
 
 ---
 
